@@ -12,15 +12,13 @@ Functional front-end replica of Airbnb an online marketplace for rentals and tou
 
 ### Demo
 
-<img src="https://user-images.githubusercontent.com/86222915/192685881-73e6862e-d63c-4b27-9ca1-20117a643fc0.mp4" height="550" width="265">
+<img src="https://user-images.githubusercontent.com/86222915/193183625-adf475b5-45fc-46d8-83c2-3c6eb4ee09b6.mp4" height="550" width="265">
 
 ### Screenshots
 <p float="left">
-
-<img src="https://user-images.githubusercontent.com/86222915/192681636-e346e98a-ac48-47ba-9602-253c33625580.png" width=200>
-<img src="https://user-images.githubusercontent.com/86222915/192681655-50361607-2339-44a0-b9b4-63034e37b31c.png" width=200>
-<img src="https://user-images.githubusercontent.com/86222915/192681679-222d867e-58f9-479b-a743-e053864675ff.png" width=200>
-<img src="https://user-images.githubusercontent.com/86222915/192681695-748ef4b7-5cdc-4b49-b22e-5c948c072aa7.png" width=200>
-<img src="https://user-images.githubusercontent.com/86222915/192681705-911b1271-77dc-4d2a-b149-2dfa920e1d94.png" width=200>
-
+<img src="https://user-images.githubusercontent.com/86222915/193177177-001351b9-00b4-4b0c-97eb-c9a94e35f5b0.png" width=200>
+<img src="https://user-images.githubusercontent.com/86222915/193177147-1834276b-3d60-49cf-9881-26b1777e85bd.png" width=200>
+<img src="https://user-images.githubusercontent.com/86222915/193177157-9e553a79-4251-4aa1-85df-dad071c1146d.png" width=200>
+<img src="https://user-images.githubusercontent.com/86222915/193177163-97d6d400-6306-40a5-a529-8f086700fe90.png" width=200>
+<img src="https://user-images.githubusercontent.com/86222915/193177169-f494cbb3-cd8d-40ab-8f47-fae21843d955.png" width=200>
 </p>
